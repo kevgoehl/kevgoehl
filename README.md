@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Kevin Göhler!
 
-I work as a Full-Stack Developer for SHD Einzelhandelssoftware. I'm located near Koblenz, Germany.
+I work as a Backend Developer for SHD Einzelhandelssoftware. I'm located near Koblenz, Germany.
 
 In 2017, I started an apprenticeship in software development. In this apprenticeship I focused on web development with a focus on E-Commerce with Shopware 6.
 
