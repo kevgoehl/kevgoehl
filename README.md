@@ -3,7 +3,7 @@
 I work as a Backend Developer for SHD Einzelhandelssoftware. I'm located near Koblenz, Germany.
 
 In 2019, I started an apprenticeship in software development. In this apprenticeship I focused on web development with a focus on E-Commerce with Shopware 6.
-In 2022, I successfully completed my apprenticeship and now I work in my apprenticeship company as a software developer with focus on E-Commerce development.
+In 2022, I successfully completed my apprenticeship and now I work as a software developer with focus on E-Commerce development.
 
 I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
