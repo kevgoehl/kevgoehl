@@ -16,3 +16,4 @@ Currently improving my skills: Symfony and VueJS for Shopware and NestJS for our
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/kev_goehl)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://de.linkedin.com/in/kevin-goehler)
+[![Xing Badge](https://img.shields.io/badge/-Xing-green)](https://www.xing.com/profile/Kevin_Goehler)
