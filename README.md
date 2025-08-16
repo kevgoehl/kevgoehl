@@ -2,15 +2,15 @@
 
 I work as a Backend Developer for SHD Einzelhandelssoftware. I'm located near Koblenz, Germany.
 
-In 2019, I started an apprenticeship in software development. In this apprenticeship I focused on web development with a focus on E-Commerce with Shopware 6.
+In 2019, I started an apprenticeship in software development. In this apprenticeship I focused on web development with a focus on E-Commerce with Shopware 6.  
 In 2022, I successfully completed my apprenticeship and now I work as a software developer with focus on E-Commerce development.
 
 I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my skills: Symfony and VueJS for Shopware and NestJS for our Middleware development.<br />
-
+- Currently improving my skills: Symfony and VueJS for Shopware and NestJS for our Middleware development.  
+- Building my own **Professional Hosting Startup** with a focus on high-performance, scalable, and secure web hosting solutions — tailored especially for E-Commerce businesses.  
 
 ### Find me elsewhere 🌎
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://de.linkedin.com/in/kevin-goehler)
