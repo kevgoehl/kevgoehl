@@ -12,5 +12,9 @@ I've had the chance to immerse myself in many different works and projects, help
 - Currently improving my skills: Symfony and VueJS for Shopware and NestJS for our Middleware development.  
 - Building my own **Professional Hosting Startup** with a focus on high-performance, scalable, and secure web hosting solutions — tailored especially for E-Commerce businesses.  
 
+### Completed Projects
+
+- [Video-Streaming Infrastructure - Read more on my Blog](https://www.kevingoehler.de/blog/video-streaming-infrastruktur)
+
 ### Find me elsewhere 🌎
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://de.linkedin.com/in/kevin-goehler)
