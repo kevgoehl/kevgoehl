@@ -1,20 +1,37 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Kevin Göhler!
 
-I work as a Backend Developer for SHD Solutions GmbH. I'm located near Koblenz, Germany.
+Backend Developer @ **SHD Solutions GmbH** ⛰️ Based near Koblenz, Germany 🇩🇪  
+Focused on building scalable backend architectures, robust infrastructure, and modern E-Commerce solutions.
 
-In 2019, I started an apprenticeship in software development. In this apprenticeship I focused on web development with a focus on E-Commerce with Shopware 6.  
-In 2022, I successfully completed my apprenticeship and now I work as a software developer with focus on E-Commerce development.
+Since starting my development apprenticeship in **2019**, I’ve specialized in **Shopware 6** and full-stack web technologies.  
+Now I’m working professionally in **E-Commerce engineering** — continuously learning and leveling up. 💪
 
-I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+---
 
-### What I'm focusing on 👨‍💻
+### 🔭 What I'm focusing on
 
-- Currently improving my skills: Symfony and VueJS for Shopware and NestJS for our Middleware development.  
-- Building my own **Professional Hosting Startup** with a focus on high-performance, scalable, and secure web hosting solutions — tailored especially for E-Commerce businesses.  
+- Strengthening my skills with **Symfony** & **VueJS** for Shopware development
+- Building internal integration services with **NestJS** & high-performance backend tooling
+- Developing a next-generation **SaaS for Multi-Region Monitoring & Intelligent Alerting** — **Byteshift Sentinel**  
+  *Get notified before your users notice — prevent incidents before they become outages.*  
+  👉 https://www.byteshift.cloud
 
-### Completed Projects
+---
 
-- [Video-Streaming Infrastructure - Read more on my Blog](https://www.kevingoehler.de/blog/video-streaming-infrastruktur)
+### 🕒 Postponed Projects (but not forgotten)
 
-### Find me elsewhere 🌎
+- **Professional Hosting Startup — Byteshift Hosting**  
+  High-performance infrastructure, tailored for demanding E-Commerce requirements:  
+  secure, scalable, fast. *(Currently paused while I fully focus on the monitoring SaaS.)*
+
+---
+
+### 🚀 Completed Projects
+
+- [Video-Streaming Infrastructure – Read more on my Blog](https://www.kevingoehler.de/blog/video-streaming-infrastruktur)
+
+---
+
+### 🌎 Find me elsewhere
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://de.linkedin.com/in/kevin-goehler)
