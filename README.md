@@ -12,9 +12,6 @@ Now I’m working professionally in **E-Commerce engineering** — continuously 
 
 - Strengthening my skills with **Symfony** & **VueJS** for Shopware development
 - Building internal integration services with **NestJS** & high-performance backend tooling
-- Developing a next-generation **SaaS for Multi-Region Monitoring & Intelligent Alerting** — **Byteshift Sentinel**  
-  *Get notified before your users notice — prevent incidents before they become outages.*  
-  👉 https://www.byteshift.cloud
 
 ---
 
@@ -23,6 +20,9 @@ Now I’m working professionally in **E-Commerce engineering** — continuously 
 - **Professional Hosting Startup — Byteshift Hosting**  
   High-performance infrastructure, tailored for demanding E-Commerce requirements:  
   secure, scalable, fast. *(Currently paused while I fully focus on the monitoring SaaS.)*
+- Developing a next-generation **SaaS for Multi-Region Monitoring & Intelligent Alerting** — **Byteshift Sentinel**  
+  *Get notified before your users notice — prevent incidents before they become outages.*  
+  👉 ~~https://www.byteshift.cloud~~
 
 ---
 
